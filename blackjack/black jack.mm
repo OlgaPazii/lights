@@ -11,15 +11,11 @@
       next.js
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <icon BUILTIN="button_ok"/>
 </node>
 <node CREATED="1596278113565" ID="ID_35740936" MODIFIED="1596280363451" POSITION="left" TEXT="design">
-<node CREATED="1596278286008" ID="ID_1322488963" MODIFIED="1596278543442" TEXT="lobby (landing)">
-<node CREATED="1596278314929" ID="ID_166188670" MODIFIED="1596278328329" TEXT="create table"/>
-</node>
-<node CREATED="1596278292795" ID="ID_1708357518" MODIFIED="1596278294617" TEXT="table">
+<node CREATED="1596278292795" FOLDED="true" ID="ID_1708357518" MODIFIED="1596648426582" TEXT="table">
 <node CREATED="1596278308528" ID="ID_1527433707" MODIFIED="1596278313550" TEXT="join"/>
 </node>
 <node CREATED="1596278527998" ID="ID_931392799" MODIFIED="1596278533266" TEXT="deck"/>
@@ -33,8 +29,7 @@
       <a href="https://github.com/selfthinker/CSS-Playing-Cards">https://github.com/selfthinker/CSS-Playing-Cards</a>
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
 <node CREATED="1596278605940" ID="ID_420537263" MODIFIED="1596278615275" POSITION="right" TEXT="db">
@@ -47,8 +42,7 @@
       firebase
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <node CREATED="1596278616984" ID="ID_1979108255" MODIFIED="1596278864261" TEXT="tables">
 <richcontent TYPE="NOTE"><html>
   <head>
@@ -89,8 +83,7 @@
       cards
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 <node CREATED="1596278713763" ID="ID_870436164" MODIFIED="1596278821349" TEXT="users">
 <richcontent TYPE="NOTE"><html>
@@ -105,11 +98,10 @@
       name
     </p>
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 </node>
 </node>
-<node CREATED="1596278916231" ID="ID_430465068" MODIFIED="1596278918378" POSITION="left" TEXT="tasks">
+<node CREATED="1596278916231" FOLDED="true" ID="ID_430465068" MODIFIED="1596450173133" POSITION="left" TEXT="tasks">
 <node CREATED="1596278919878" ID="ID_1527605201" MODIFIED="1596278923544" TEXT="create project"/>
 <node CREATED="1596278925019" ID="ID_865774991" MODIFIED="1596278928893" TEXT="add firebase">
 <node CREATED="1596280506293" ID="ID_1226154811" MODIFIED="1596280516414" TEXT="write tables \ users"/>
