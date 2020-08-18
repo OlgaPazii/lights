@@ -21,3 +21,38 @@
  */
 
 /** YOUR CODE HERE */
+
+const firstLight = document.querySelector(".first");
+const secondLight  = document.querySelector(".second");
+const thirdtLight  = document.querySelector(".third");
+const fouthLight = document.querySelector(".fourth");
+
+setTimeout(() => {
+    secondLight.classList.add("green");
+    thirdtLight.classList.add("red");
+    fouthLight.classList.add("green");
+
+    setInterval(() => {
+        firstLight.classList.remove("red");
+        secondLight.classList.add("red");
+
+        firstLight.classList.add("yellow");
+        secondLight.classList.remove("green");
+
+        firstLight.classList.remove("red");
+        fouthLight.classList.remove("green");
+        fouthLight.classList.add("yellow");
+        
+        setInterval(() => {
+            firstLight.classList.remove("yellow");
+            fouthLight.classList.remove("yellow");
+            firstLight.classList.add("green");
+            fouthLight.classList.add("red");
+            thirdtLight.classList.remove("red");
+            thirdtLight.classList.add("green");
+        }, 1000); 
+     
+    }, 5000);
+
+}, 0);
+
