@@ -22,6 +22,7 @@
 
 /** YOUR CODE HERE */
 
+
 const firstLight = document.querySelector(".first");
 const secondLight  = document.querySelector(".second");
 const thirdtLight  = document.querySelector(".third");
